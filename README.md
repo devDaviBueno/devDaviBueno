@@ -9,6 +9,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvagnerbomjesus.medium.com%2Fengine-ejs-com-node-js-99d84c65934f&psig=AOvVaw2oKWOXJ0a0QWphflJMB-wn&ust=1696913929853000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi6o4-X6IEDFQAAAAAdAAAAABAE)
+
 
 
 
